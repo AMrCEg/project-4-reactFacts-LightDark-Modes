@@ -1,0 +1,16 @@
+:root {
+  --main-color: #61dafb;
+  --main-background-color: #282d35;
+  --nav-background-color: #21222a;
+  --text-color: #ffffff;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", "Karla", "Poppins", sans-serif;
+  font-style: normal;
+  height: 100vh;
+}
